@@ -12,16 +12,18 @@ This project recreates the sleek, minimal, and SaaS-style UI of the official ToD
 
 | 🖥️ **Hero Section** | 🌟 **Feature Grid** |
 |---|---|
-| ![Hero Section](/hero.png) | ![Features](/features.png) |
+| ![Hero Section](public/hero.png) | ![Features](public/features.png) |
 
 | 💳 **Pricing** | 🗣️ **Testimonials** |
 |---|---|
-| ![Pricing](/pricing.png) | ![Testimonials](/testimonials.png) |
+| ![Pricing](public/pricing.png) | ![Testimonials](public/testimonials.png) |
 
-## ✨ Features Overview
+
+
+## ✨ Download Overview
 
 <div align="center">
-<img src="https://via.placeholder.com/800x400/1e293b/ffffff?text=ToDesktop+Landing+Page+Preview" alt="Landing Page Preview"/>
+<img src="public/download.png" alt="Download img" >
 </div>
 
 **🔥 Single-Page Application with these killer sections:**
