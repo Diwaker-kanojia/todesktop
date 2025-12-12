@@ -18,15 +18,7 @@ This project recreates the sleek, minimal, and SaaS-style UI of the official ToD
 |---|---|
 | ![Pricing](public/pricing.png) | ![Testimonials](public/testimonials.png) |
 
-
-
-## ✨ Download Overview
-
-<div align="center">
-<img src="public/download.png" alt="Download img" >
-</div>
-
-**🔥 Single-Page Application with these killer sections:**
+## 🔥 Single-Page Application with these killer sections:
 
 - **📱 Navbar** - Responsive navigation with CTA buttons
 - **🎯 Hero Section** - Animated company logos & value prop
@@ -39,3 +31,17 @@ This project recreates the sleek, minimal, and SaaS-style UI of the official ToD
 
 ## 🛠️ Tech Stack
 
+| 🧩 **Core Tech** | 🔗 **Links** |
+|------------------|-------------|
+| **React** | [![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/) |
+| **Vite** | [![Vite](https://img.shields.io/badge/Vite-Build%20Tool-purple?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/) |
+| **Tailwind CSS** | [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Utility%20First-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) |
+| **ESLint** | [![ESLint](https://img.shields.io/badge/ESLint-Linting-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/) |
+
+## 🎉 Why This Landing Page Rocks
+
+✅ **Fully Responsive** - Mobile-first design  
+✅ **Performance Optimized** - Vite + Tailwind magic  
+✅ **Modern Animations** - Smooth scrolling & effects  
+
+## 🚀 Quick Start Guide
