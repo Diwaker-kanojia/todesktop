@@ -1,16 +1,39 @@
-# React + Vite
+<div align="center">
+  
+# 🚀 ToDesktop - Web to Desktop Magic ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**A modern and responsive ToDesktop landing page clone built using React JS and Tailwind CSS.
+This project recreates the sleek, minimal, and SaaS-style UI of the official ToDesktop website with clean components, smooth layouts, and a fully responsive design.**
 
-Currently, two official plugins are available:
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-Visit%20Site-blue?style=for-the-badge&logo=vercel&logoColor=white)]([https://todesktop.com](https://todesktop-alpha.vercel.app/))
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎨 Screenshots
 
-## React Compiler
+| 🖥️ **Hero Section** | 🌟 **Feature Grid** |
+|---|---|
+| ![Hero Section](/hero.png) | ![Features](/features.png) |
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| 💳 **Pricing** | 🗣️ **Testimonials** |
+|---|---|
+| ![Pricing](/pricing.png) | ![Testimonials](/testimonials.png) |
 
-## Expanding the ESLint configuration
+## ✨ Features Overview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<div align="center">
+<img src="https://via.placeholder.com/800x400/1e293b/ffffff?text=ToDesktop+Landing+Page+Preview" alt="Landing Page Preview"/>
+</div>
+
+**🔥 Single-Page Application with these killer sections:**
+
+- **📱 Navbar** - Responsive navigation with CTA buttons
+- **🎯 Hero Section** - Animated company logos & value prop
+- **⚡ How It Works** - 3-step conversion process
+- **🎨 Feature Grid** - Bento-style native features showcase
+- **⭐ Customer Stories** - ClickUp testimonials & case studies
+- **💰 Pricing** - Free, Essential, Professional plans
+- **❓ FAQ** - Common questions answered
+- **📄 Footer** - Docs, socials & company info
+
+## 🛠️ Tech Stack
+
