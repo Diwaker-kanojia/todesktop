@@ -5,7 +5,7 @@
 **A modern and responsive ToDesktop landing page clone built using React JS and Tailwind CSS.
 This project recreates the sleek, minimal, and SaaS-style UI of the official ToDesktop website with clean components, smooth layouts, and a fully responsive design.**
 
-[![Live Preview](https://img.shields.io/badge/Live%20Preview-Visit%20Site-blue?style=for-the-badge&logo=vercel&logoColor=white)]([https://todesktop.com](https://todesktop-alpha.vercel.app/))
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-Visit%20Site-blue?style=for-the-badge&logo=vercel&logoColor=white)](http://todesktop-alpha.vercel.app/)
 </div>
 
 ## 🎨 Screenshots
