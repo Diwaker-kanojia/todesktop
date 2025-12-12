@@ -44,4 +44,34 @@ This project recreates the sleek, minimal, and SaaS-style UI of the official ToD
 ✅ **Performance Optimized** - Vite + Tailwind magic  
 ✅ **Modern Animations** - Smooth scrolling & effects  
 
-## 🚀 Quick Start Guide
+## 🛠️ Getting Started
+
+Follow these steps to run the project locally:
+
+### 1️⃣ Clone the repository
+```
+git clone https://github.com/diwaker-kanojia/todesktop.git
+```
+## 2️⃣ Navigate into the project folder
+```
+cd todesktop
+```
+### 3️⃣ Install dependencies
+```
+npm install
+```
+### 4️⃣ Start the development server
+```
+npm run dev
+```
+
+<div align="center">
+  
+**⭐ Star us on GitHub if this helps you!**
+
+[![GitHub stars](https://img.shields.io/github/stars/diwaker-kanojia/todesktop?style=social)](https://github.com/diwaker-kanojia/todesktop)
+[![GitHub forks](https://img.shields.io/github/forks/diwaker-kanojia/todesktop?style=social)](https://github.com/diwaker-kanojia/todesktop)
+
+**Made with ❤️ using only React + Tailwind CSS**
+
+</div>
